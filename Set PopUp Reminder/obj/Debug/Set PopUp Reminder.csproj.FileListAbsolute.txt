@@ -1,0 +1,20 @@
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.exe.config
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.pdb
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csprojAssemblyReference.cache
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set_PopUp_Reminder.Properties.Resources.resources
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csproj.GenerateResource.cache
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.pdb
+C:\Portfolio CSharp\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set_PopUp_Reminder.FormPopUpReminder.resources
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.exe.config
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.exe
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\bin\Debug\Set PopUp Reminder.pdb
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csproj.AssemblyReference.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csproj.SuggestedBindingRedirects.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set_PopUp_Reminder.FormPopUpReminder.resources
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set_PopUp_Reminder.Properties.Resources.resources
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csproj.GenerateResource.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.csproj.CoreCompileInputs.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.exe
+E:\Coding\Finished Applications\Windows Forms App CSharp\Set PopUp Reminder\Set PopUp Reminder\obj\Debug\Set PopUp Reminder.pdb
